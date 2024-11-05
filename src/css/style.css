@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-color: var(--Cream);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    color: var(--Dark-grayish-blue);
+}
+
+section{
+    background-image: url(../images/image-product-mobile.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    background-color: var(--White);
+    height: 610px;
+    width: 342px;
+    border-radius: 10px;
+}
+
+.card .conteudo{
+    display: flex;
+    flex-direction: column;
+    padding: 263px 25px 4px;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.card .conteudo h1{
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 12px;
+    
+}
+
+.card h2{
+    font-family: "Fraunces", serif;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+    color: var(--Very-dark-blue);
+    margin-bottom: 4px;
+}
+
+.card .descricao{
+    font-weight: 500;
+    line-height: 23px;
+    margin-bottom: 4px;
+}
+
+.preco-com-desconto{
+    color: var(--Dark-cyan);
+    font-family: "Fraunces", serif;
+    font-weight: 700;
+    font-size: 32px;
+    display: flex;
+    align-items: center;
+    margin: 3px 0;
+}
+
+.preco-com-desconto .preco-cheio{
+    color: var(--Dark-grayish-blue);
+    font-size: 13px;
+    font-weight: 500;
+    padding-left: 19px;
+    text-decoration: line-through;
+}
+
+.adicionar-carrinho{
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--Dark-cyan);
+    border: none;
+    height: 48px;
+    border-radius: 10px;
+    color: var(--White);
+    font-size: 14px;
+    font-weight: 600
+}
+
+.adicionar-carrinho:hover{
+    background-color: var(--Dark-cyan-hover);
+}
+
+.adicionar-carrinho img{
+    padding: 10px;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    padding-bottom: 5px;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}

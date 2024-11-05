@@ -1,0 +1,19 @@
+@media(min-width: 768px) {
+    body .card{
+        width: 600px;
+        height: 453px;
+        
+    }
+    body section{
+        background-image: url(../images/image-product-desktop.jpg);
+    }
+
+    body .card .conteudo{
+        padding: 32px 32px 15px 332px;
+    }
+
+    body .attribution{
+        padding-left: 50%;
+        font-size: 10px;
+    }
+}
