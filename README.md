@@ -29,8 +29,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Adicione a URL da solução aqui](https://your-solution-url.com)
-- URL do site ativo: [Adicione a URL do site ativo aqui](https://your-live-site-url.com)
+- URL da solução: [https://www.frontendmentor.io/solutions/soluo-de-componente-de-carto-de-pr-visualizao-de-produto-_T9pz8LXsE](https://www.frontendmentor.io/solutions/soluo-de-componente-de-carto-de-pr-visualizao-de-produto-_T9pz8LXsE)
+- URL do site ativo: [https://mariocarlaibe.github.io/product-preview-card-component-main/](https://mariocarlaibe.github.io/product-preview-card-component-main/)
 
 ## Meu processo
 
@@ -56,8 +56,8 @@ Pretendo continuar a melhorar as tecnicas de flex-box, para organizar melhor os 
 
 ## Autor
 
-- Site - [Adicione seu nome aqui](https://www.your-site.com)
-- Mentor de front-end - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Site - [Mário Carlaibe](https://github.com/MarioCarlaibe)
+- Mentor de front-end - [@MarioCarlaibe](https://www.frontendmentor.io/solutions/soluo-de-componente-de-carto-de-pr-visualizao-de-produto-_T9pz8LXsE)
 
 ## Agradecimentos
 
